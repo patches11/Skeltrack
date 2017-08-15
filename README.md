@@ -1,4 +1,4 @@
-#Skeltrack
+# Skeltrack
 ## What is Skeltrack
 
 Skeltrack is a Free and Open Source Software library for tracking
